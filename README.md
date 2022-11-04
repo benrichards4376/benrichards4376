@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithms, Object-Oriented Programming, Security in Computing, and Computer Logic and Organization
 - 📫 How to reach me -- The best way to reach me is through my email: benrichards4376@outlook.com
 
-I'm learning computer science at UCF and am making project folders for all my classes to show what I am learning and how I am growing. I have intermediate experience
-with both C and Java, and some very basic experience with LateX.
+I'm learning computer science at UCF and am making project folders for all my classes to show what I am learning and how I am growing. I have experience
+with C, Java, Python, and some very basic experience with LateX.
 These projects are the finished product of assignments from my current classes, and I will be updating each repository as my experience continues.
 When I get more free time I might add a separate repository for personal projects.
 

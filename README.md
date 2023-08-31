@@ -4,7 +4,7 @@
 - 📫 How to reach me -- The best way to reach me is through my email: benrichards4376@outlook.com
 
 I'm learning computer science at UCF and am making project folders for all my classes to show what I am learning and how I am growing. I have experience
-with C, Java, Python, and some very basic experience with LateX.
+with C, Java, Python, C++, JavaScript, and some very basic experience with LateX.
 These projects are the finished product of assignments from my current classes, and I will be updating each repository as my experience continues.
 When I get more free time I might add a separate repository for personal projects.
 
@@ -20,7 +20,6 @@ Outside of Computer Science I am deeply interested in music and theatre. I was i
 in both lead and ensemble roles, all of which helped me grow into the person I am today. I have been singing since I was a kid, and playing piano as a hobby since
 high school. I love learning new things in any subject; one of my favorite pastimes is going down a Wikipedia rabbit trail, or watching an interesting YouTube 
 video because it's common to stumble onto something incredible, and you leave having learned something very few peopl have the care to learn about.
-
 
 If you've read this far, I hope you enjoy my projects. They're not supposed to be some expert craftsman level of code, rather a documentation of my personal
 journey into a field I had zero experience coming in with but now love enough to work in for the rest of my life.
